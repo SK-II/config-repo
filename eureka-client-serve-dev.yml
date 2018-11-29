@@ -4,4 +4,4 @@ spring:
   application:
     name: eureka-client-serve
 env:
-  dev
+  dev1
